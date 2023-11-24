@@ -1,4 +1,4 @@
-module github.com/anonpkts/golandbotapi
+module github.com/anonpkts/golangbotapi
 
 go 1.17
 
