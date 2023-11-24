@@ -10,7 +10,7 @@ import (
 	"github.com/plivo/plivo-go/xml"
 )
 
-var NGROK_URL string = "https://golandbotapi-aa8c2d6b58e4.herokuapp.com"
+var NGROK_URL string = "https://golangbotapi-aa8c2d6b58e4.herokuapp.com"
 var BOT_TOKEN string = "6369691461:AAGLN8KblmZEY8kz5tPuEAtrrPxu6th8u8k"
 
 func main() {
